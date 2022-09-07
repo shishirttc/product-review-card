@@ -1,5 +1,5 @@
 # Frontend Mentor - Product preview card component
-
+visit: https://shishirttc.github.io/product-review-card/
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
